@@ -378,3 +378,4 @@ Added line in branch1 - commit 1
 Added line in branch1 - commit 2 
 Added line in branch1 - commit 3 
 Extra change in branch1 - commit 4 
+Extra change in branch1 - commit 5 

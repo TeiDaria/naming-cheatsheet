@@ -376,3 +376,4 @@ const friends = ['Bob', 'Tony', 'Tanya']
  
 Modified line in branch2 - commit 1 
 Modified line in branch2 - commit 2 
+Modified line in branch2 - commit 3 
